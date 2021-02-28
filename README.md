@@ -3,7 +3,7 @@
 
 ## Team Study<br>    
     기간 : 2020.12 - 2021.01<br>
-    주제 : Ridge Regression & Lasso Regression<br>
+    주제 : Ridge Regression & Lasso Regression
 
 ## Team Project<br>
   #### 1. DACON 심리 성향 예측 AI 경진대회
