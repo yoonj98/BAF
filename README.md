@@ -2,7 +2,7 @@
 동국대학교 통계학과 빅데이터 학회
 
 ## Team Study<br>    
-    기간 : 2020.12 - 2021.01<br>
+    기간 : 2020.12 - 2021.01  
     주제 : Ridge Regression & Lasso Regression
 
 ## Team Project<br>
